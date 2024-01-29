@@ -1,7 +1,7 @@
 import pygame
 from spaceship import Spaceship
 from asteroid import Asteroid
-from asteroid import Enemy
+from enemy import Enemy
 import menu
 import random
 
