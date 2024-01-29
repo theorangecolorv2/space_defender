@@ -5,8 +5,6 @@ from game import Game
 from asteroid import Asteroid
 from menu import *
 
-def nothing():
-    pass
 
 pygame.init()
 screen_width = 800
